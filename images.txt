@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 jenkins/jenkins:latest
+
+rustfs/rustfs:1.0.0-alpha.85-glibc
