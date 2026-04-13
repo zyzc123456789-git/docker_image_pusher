@@ -9,4 +9,4 @@ jenkins/jenkins:latest
 
 rustfs/rustfs:1.0.0-alpha.85-glibc
 
-nacos/nacos-server:v3.2.1-2026.04.03 --platform=linux/arm64
+ --platform=linux/arm64 nacos/nacos-server:v3.2.1-2026.04.03
