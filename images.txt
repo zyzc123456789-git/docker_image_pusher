@@ -1,12 +1,1 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-
-jenkins/jenkins:latest
-
-rustfs/rustfs:1.0.0-alpha.85-glibc
- 
- --platform=linux/arm64 nacos/nacos-server:v3.2.1-2026.04.03
+--platform=linux/arm64 nacos/nacos-server:v3.2.1-2026.04.03
